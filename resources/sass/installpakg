@@ -1,0 +1,17 @@
+STEP1:
+Make laravel project
+Make Migrations With Model
+Install pakge 
+https://laravel-admin.org/docs/en/#Installation
+then run project in server
+http://127.0.0.1:8000/admin the brows 
+then goto dashbord pakge GetStarted ==> QuickStar
+Then Folow doc file and make controller each Model
+
+First Run Install if not create controller
+composer remove doctrine/dbal
+$ composer require doctrine/dbal:2.*
+
+ADD MENUE
+
+
